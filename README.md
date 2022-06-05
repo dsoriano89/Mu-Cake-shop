@@ -1,6 +1,7 @@
 # Mu Cake shop
- spa e-shop/vanilla js
-Personal project in development in japanese
+Spa e-shop/vanilla js
+
+Personal project in progress, in japanese.
 
 Logo composition made on Figma
 
@@ -9,5 +10,5 @@ Logo composition made on Figma
 First steps
 - Header links
 - Menu side bar
-- 
-- ![mucake](https://user-images.githubusercontent.com/80492355/172031863-b64e43fe-120e-4a1f-9766-ba56e1f00cd6.png)
+ 
+![mucake](https://user-images.githubusercontent.com/80492355/172031863-b64e43fe-120e-4a1f-9766-ba56e1f00cd6.png)
