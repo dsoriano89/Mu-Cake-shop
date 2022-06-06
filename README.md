@@ -11,4 +11,5 @@ First steps
 - Header links
 - Menu side bar
  
-![mucake](https://user-images.githubusercontent.com/80492355/172031863-b64e43fe-120e-4a1f-9766-ba56e1f00cd6.png)
+![page-progress](https://user-images.githubusercontent.com/80492355/172090322-c819ffe0-de22-460e-a9db-ffaf54e6cfde.png)
+
