@@ -1,7 +1,5 @@
 # Mu Cake shop
-Spa e-shop/vanilla js
-
-Personal project in progress, in japanese.
+Spa e-shop/vanilla js/ page in japanese.
 
 Logo composition made on Figma
 
