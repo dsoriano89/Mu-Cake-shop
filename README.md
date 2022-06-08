@@ -3,11 +3,12 @@ Spa e-shop/vanilla js/ page in japanese.
 
 Logo composition made on Figma
 
-![image](https://user-images.githubusercontent.com/80492355/172031841-36251080-a79d-4f59-892e-3d3c26b6a299.png)
+![mocake](https://user-images.githubusercontent.com/80492355/172705055-baae929b-66a6-42a1-9c0d-8b442f0d2452.png)
 
 First steps
 - Header links
 - Menu side bar
  
-![page-progress](https://user-images.githubusercontent.com/80492355/172090322-c819ffe0-de22-460e-a9db-ffaf54e6cfde.png)
+![ygug](https://user-images.githubusercontent.com/80492355/172705247-c100aafd-359c-4ebf-af54-5073fd36f592.png)
+
 
